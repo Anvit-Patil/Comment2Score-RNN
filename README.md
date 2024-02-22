@@ -1,7 +1,7 @@
-# RMP Sentiment Analysis Jupyter Notebook
+# Comment2Score
 
 ## Overview
-This Jupyter notebook, titled "RMP Sentiment", is an exploratory and analytical project focused on sentiment analysis derived from the Rate My Professors (RMP) website. The project aims to uncover insights into professor ratings, difficulty levels, and the overall sentiment from student reviews using various data science and machine learning techniques.
+Comment2Score, is an exploratory and analytical project focused on sentiment analysis derived from the Rate My Professors (RMP) website. The project aims to uncover insights into professor ratings, difficulty levels, and the overall sentiment from student reviews using various data science and machine learning techniques.
 
 ## Key Features
 - **Data Visualization**: Utilizes kernel density estimate plots, count plots, and various graphical representations to analyze star ratings, difficulty levels, and grade distributions from the dataset.
