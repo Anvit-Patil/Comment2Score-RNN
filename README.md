@@ -22,7 +22,7 @@ To run this notebook:
    ```
 2. Clone this repository to your local machine.
 3. Navigate to the cloned directory and start Jupyter Notebook or JupyterLab.
-4. Open the `RMP Sentiment.ipynb` notebook.
+4. Open the `Comment2Score_Final.ipynb` notebook.
 
 ## Prerequisites
 This notebook requires Python 3.x and the following libraries:
